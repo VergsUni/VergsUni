@@ -1,6 +1,6 @@
 # Hi, I'm Valeria 👋
 
-Software Developer specializing in backend architecture, microservices, and full-stack enterprise applications. I work end-to-end — from requirements analysis to production deployment — building scalable and reliable systems in large-scale retail (GDO) environments.
+Software Engineer specializing in backend architecture, microservices, and full-stack enterprise applications. I work end-to-end — from requirements analysis to production deployment — building scalable and reliable systems in large-scale retail (GDO) environments.
 
 > Most of my day-to-day work lives in private enterprise repositories. My public repositories are mainly university projects and don't reflect the full scope of my professional work.
 
